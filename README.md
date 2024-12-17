@@ -8,7 +8,7 @@ NovaNet is a Python package providing a gated multi-scale segmentation architect
 pip install nova-net
 ```
 
-## Downloading the pothole600 dataset on colab
+## Downloading the pothole600 dataset 
 
 ```bash
 pip install gdown
