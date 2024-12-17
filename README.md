@@ -5,7 +5,7 @@ NovaNet is a Python package providing a gated multi-scale segmentation architect
 ## Installation
 
 ```bash
-pip install nova_net
+pip install nova-net
 ```
 
 ## Usage
