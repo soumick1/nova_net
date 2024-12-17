@@ -52,14 +52,3 @@ for img_path, pred_mask in results:
     print(f"Image: {img_path}, Mask shape: {pred_mask.shape}")
 ```
 
-```yaml
-
----
-
-### Publishing to PyPI
-
-1. **Build and Upload**:  
-   Install `twine`:
-   ```bash
-   pip install twine
-```
