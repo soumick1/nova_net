@@ -1,3 +1,5 @@
+![Python 3.8](https://img.shields.io/badge/python-3.10-green.svg)
+
 # NovaNet
 
 NovaNet is a Python package providing a gated multi-scale segmentation architecture tailored for the Pothole600 dataset, along with utilities for training and inference.
@@ -54,9 +56,11 @@ from nova_net.inference import run_inference
 model_ckpt_path = 'best_model.pth'
 image_paths = ['path/to/test_img.png']
 results = run_inference(model_ckpt_path, image_paths, device=device)
-
 for img_path, pred_mask in results:
     # pred_mask is the predicted segmentation mask
     print(f"Image: {img_path}, Mask shape: {pred_mask.shape}")
 ```
+
+### Visualizing an inference example
+![](./images/inference.png)
 
