@@ -64,3 +64,19 @@ for img_path, pred_mask in results:
 ### Visualizing an inference example
 ![](./images/inference.png)
 
+
+## 📄 Citation
+
+[Paper Link]([https://www.techrxiv.org/doi/full/10.36227/techrxiv.173145064.43169558/v1](https://ieeexplore.ieee.org/abstract/document/10927473))
+
+If you find this repository useful in your research, please cite my work as follows:
+
+```bibtex
+@inproceedings{sarker2024novanet,
+  title={NovaNet: A Novel Method for Enhanced Pothole Detection on Road},
+  author={Sarker, Soumick and Thakur, Abhinav and Saha, Suswan and Sarkar, Sobhan},
+  booktitle={2024 8th International Conference on System Reliability and Safety (ICSRS)},
+  pages={254--260},
+  year={2024},
+  organization={IEEE}
+}
