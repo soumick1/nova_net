@@ -67,7 +67,7 @@ for img_path, pred_mask in results:
 
 ## 📄 Citation
 
-[Paper Link]([https://www.techrxiv.org/doi/full/10.36227/techrxiv.173145064.43169558/v1](https://ieeexplore.ieee.org/abstract/document/10927473))
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/10927473)
 
 If you find this repository useful in your research, please cite my work as follows:
 
