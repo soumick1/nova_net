@@ -1,4 +1,4 @@
-![Python 3.8](https://img.shields.io/badge/python-3.10-green.svg)
+![Python 3.13](https://img.shields.io/badge/python-3.13-green.svg)
 
 # NovaNet
 
